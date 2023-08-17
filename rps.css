@@ -1,0 +1,56 @@
+body {
+  background-color: black;
+  color: white;
+}
+button {
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  background-color: black;
+  border-color: white;
+  border-width: 3px;
+  color: rgb(255,255,255);
+  margin-left: 13px;
+}
+
+img {
+  height: 60x;
+  width: 60px;
+  border-radius: 30px;
+
+}
+.p1{
+  font-size: 20px;
+  font-family: family;
+}
+.js-result{
+  font-size: 30px;
+  font-family: arial;
+  margin-bottom: 50px;
+  margin-top: 30px;
+  margin-left: 20px;
+
+}
+.js-moves{
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 70px;
+  font-size: 20px;
+  margin-left: 13px;
+
+}
+.js-score{
+  margin-left: 15px;
+  font-size: 20px;
+  
+}
+.b4{
+  border: none;
+  font-size: 20px;
+  font-family: arial;
+  color: black;
+  background-color: white;
+  height: 30px;
+  width: 70px;
+  border-radius: 0px;
+}
